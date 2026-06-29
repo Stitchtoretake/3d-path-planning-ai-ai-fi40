@@ -1,4 +1,4 @@
-# 
+# Élite 3D Path Planning AI outils. Avec détection d'objets et extraction de caractéristiques — optimisé pour des performances maximales.
 
 
 
